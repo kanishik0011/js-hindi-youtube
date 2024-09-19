@@ -25,3 +25,26 @@ console.log(score)
  let negValue=-value
  console.log(negValue)
  console.log(value)
+ //console.log(negetive);
+ console.log(2+2 )
+ console.log(2-2)
+ console.log(2*2)
+ console.log(4/4)
+ console.log(6%5)
+ console.log(2**2)
+
+ let str1="hi"
+ let str2="kanishk"
+ console.log(str1+str2)
+ console.log("1"+2)
+ console.log(1+"2" )
+ console.log( 1+2+"2")
+ console.log("1"+2+"3")
+ console.log(+true)
+ console.log(true)
+ console.log(+"")
+ let num1,num2,num3
+ num1=num2=num3=2+2
+ let gamecounter=100;
+ gamecounter++
+ console.log(gamecounter)
